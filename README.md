@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Buddelbubi</h1>
 <h3 align="center">A passionate hobby developer from Germany</h3>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Buddelbubi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Buddelbubi&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddelbubi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=buddelbubi&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddelbubi&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+<img src="https://lanyard-profile-readme.vercel.app/api/330710628907876354?&bg=00000000">
+</p>
 
 
 ## 🌐 Socials:
