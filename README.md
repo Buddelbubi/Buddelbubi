@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Buddelbubi</h1>
 <h3 align="center">A passionate hobby developer from Germany</h3>
 
-<p align="center">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Buddelbubi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Buddelbubi&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddelbubi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
- </p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discordapp.com/users/468499875718234112) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/buddelbubi) 
