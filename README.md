@@ -4,10 +4,10 @@
 
 <div align="center">
     <a href="https://discord.syodo.xyz">
-        <img src="https://img.shields.io/discord/991753247788371978?color=ff3f4c&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+        <img src="https://img.shields.io/discord/991753247788371978?color=576CEC&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
     </a>
     <a href="https://www.paypal.com/paypalme/buddelbubi">
-        <img src="https://img.shields.io/badge/Coffee-Logo?color=ff3f4c&label=Donate&style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal Badge"/>
+        <img src="https://img.shields.io/badge/Coffee-Logo?color=576CEC&label=Donate&style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal Badge"/>
     </a>
 </div>
 
