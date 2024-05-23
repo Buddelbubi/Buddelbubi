@@ -17,7 +17,7 @@
 </br>
 
 <p align="center"><b>Hey, I am Damian, also known as Buddelbubi.
-I am a 19 year old hobby developer from Germany. Currenty working on Syodo.<b/><p/>
+I am a 21 year old hobby developer from Germany. Currenty working on Syodo.<b/><p/>
 <div align="center">
 	<a href="https://visitcount.itsvg.in">
 		<img src="https://komarev.com/ghpvc/?username=buddelbubi&color=576CEC&style=for-the-badge&logo=" />
