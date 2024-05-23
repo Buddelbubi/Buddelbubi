@@ -43,7 +43,7 @@ I am a 21 year old hobby developer from Germany. Currenty working on Syodo.<b/><
 <div align="center">
   <img height="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" title="Java" />
   <img height="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cpp" title="Cpp" />
-  <img height="40" src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" alt="sql" title="Python" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png" alt="sql" title="Python" />
   <img height="40" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/mysqlworkbench_103806.png" alt="sql" title="Sql" />
 </div>
 </br>
