@@ -17,21 +17,10 @@
 </br>
 
 <p align="center"><b>Hey, I am Damian, also known as Buddelbubi.
-I am a 21 year old hobby developer from Germany. Currenty working on Syodo.<b/><p/>
+I am a 22 year old hobby developer from Germany. Currenty working on PowerNukkitX.<b/><p/>
 <div align="center">
 	<a href="https://visitcount.itsvg.in">
 		<img src="https://komarev.com/ghpvc/?username=buddelbubi&color=576CEC&style=for-the-badge&logo=" />
-	</a>
-</div>
-</br>
-
----
-
-### 🛒 Get in touch : 
-</br>
-<div align="center">
-    <a href="https://discord.com/users/468499875718234112">
-		<img src="https://discord.c99.nl/widget/theme-4/468499875718234112.png">
 	</a>
 </div>
 </br>
