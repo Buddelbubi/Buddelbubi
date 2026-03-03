@@ -17,7 +17,7 @@
 </br>
 
 <p align="center"><b>Hey, I am Damian, also known as Buddelbubi.
-I am a 22 year old hobby developer from Germany. Currenty working on PowerNukkitX.<b/><p/>
+I am a 23 year old hobby developer from Germany. Currenty working on PowerNukkitX.<b/><p/>
 <div align="center">
 	<a href="https://visitcount.itsvg.in">
 		<img src="https://komarev.com/ghpvc/?username=buddelbubi&color=576CEC&style=for-the-badge&logo=" />
